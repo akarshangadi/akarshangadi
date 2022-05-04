@@ -9,7 +9,7 @@ I have been learning to code for 2 years. Started with HTML and gradually moved 
 * 🌍  I'm based in Dharwad, Karnataka, India
 * ✉️  You can contact me at [akarshangadi01@gmail.com](mailto:akarshangadi01@gmail.com)
 * 🚀  I'm currently working on [Cookery](http://cookerydemo.herokuapp.com/)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on Any exciting projects
 * ⚡  I am a chemical engineer by education and passionate about software development
 
