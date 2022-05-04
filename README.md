@@ -1,4 +1,4 @@
-Hi 👋 My name is Akarsh Angadi
+Hi 👋 My name is Akarsh
 ==============================
 
 Web developer
