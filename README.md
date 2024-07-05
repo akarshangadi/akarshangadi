@@ -4,12 +4,12 @@ Hi 👋 My name is Akarsh
 Web developer
 -------------
 
-I have been learning to code for 2 years. Started with HTML and gradually moved to React JS and Node JS
+I have been learning to code for 3.5 years. Started with HTML and gradually moved to React JS and Node JS
 
-* 🌍  I'm based in Dharwad, Karnataka, India
+* 🌍  I'm based in Dharwad/Bengaluru, Karnataka, India
 * ✉️  You can contact me at [akarshangadi01@gmail.com](mailto:akarshangadi01@gmail.com)
 * 🚀  I'm currently working on [Cookery](http://cookerydemo.herokuapp.com/)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Any exciting projects
 * ⚡  I am a chemical engineer by education and passionate about software development
 
